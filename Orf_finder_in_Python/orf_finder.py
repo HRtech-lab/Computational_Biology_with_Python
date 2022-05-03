@@ -162,3 +162,4 @@ delimiter = ","
 string = s.split(delimiter)  #Converts the string into list
 #Finding the Longest ORF from the list
 print("longest ORF sequence is = ",max(string, key = len))
+print("This code is Published by Hassan Raza on Github")
